@@ -1,0 +1,10 @@
+Download the app from AppStore
+Launch the app tapping to the icon on the home screen
+Tap the "Currency.com Exchange" -> Redirect to "Crypto exchange Currency.com" in App Store
+Tap the "Currency.com Web" -> Redirect to Currency.com
+Tap the "Currency.com Academy" -> Redirect to Currency.com 
+Tap the "Cypto-assets Risk Disclosures" -> Redirect to Currency.com 
+Tap the link "Go to the website" -> Redirect to Currency.com
+Tap the [Create accout] Button -> Redirect to Currency.com
+Tap the [Go to] button on "Keep studying" screen -> Redirect to Currency.com
+Tap the [Go to Currency.com] Button -> Redirect to Currency.com
